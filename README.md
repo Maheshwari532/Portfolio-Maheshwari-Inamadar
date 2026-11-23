@@ -7,8 +7,8 @@ A modern, responsive personal portfolio built with plain HTML, CSS and JavaScrip
 ```
 portfolio/
 ├── index.html
-├── css/style.css
-├── js/script.js
+├── style.css
+├── script.js
 └── README.md
 ```
 
